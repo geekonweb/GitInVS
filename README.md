@@ -1,0 +1,2 @@
+# GitInVS
+Test project 
